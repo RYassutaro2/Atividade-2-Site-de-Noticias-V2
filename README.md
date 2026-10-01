@@ -1,1 +1,1 @@
-# Atividade-2-Site-de-Noticias-V2
+Feito em dupla com Lucas da Silva
